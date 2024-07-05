@@ -1,2 +1,5 @@
 uvicorn
 fastapi
+sqlalchemy
+pydantic
+typing
